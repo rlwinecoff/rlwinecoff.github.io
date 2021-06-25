@@ -30,7 +30,6 @@ body {
 
 .left {
     width: 460px;
-    float: left;
 }
 
 .right {
@@ -39,11 +38,6 @@ body {
     float: right;
 }
 
-.container {
-  width: 460pf;
-  display: flex;
-  justify-content: center;
-}
 
 div.breaker { clear:both; }
 .template { display:none; }
