@@ -88,7 +88,6 @@ a[href] {
 a[href^="#"] {
   background: inherit;
   text-shadow: none;
-  border-bottom: 1px dotted rgba(0,0,0,0.1);
 }
 a[href]:hover {
   color: #000;
